@@ -3,5 +3,5 @@
 *.csv
 *.csv.gz
 
-notebooks/.ipynb_checkpoints
-notebooks/__pycache__
+.ipynb_checkpoints
+__pycache__
