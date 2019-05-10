@@ -4,3 +4,4 @@
 *.csv.gz
 
 notebooks/.ipynb_checkpoints
+notebooks/__pycache__
